@@ -35,3 +35,6 @@ A library focused to crowd sourced news portal.
 * Category management
 * Menu administration
 * User administration
+
+## Demo
+Demo of the latest version is available at: http://ghumkumar.com/works/citizen_news/
