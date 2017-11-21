@@ -26,7 +26,7 @@ A library focused to crowd sourced news portal.
 3.2. Set appropriate SMTP credentials to connect your SMTP server.
 
 **STEP 4: htaccess file**  
-4.1. Update the `.htaccess` file from `\Source\.htaccess` and make appropriate changes in necessary.  
+4.1. Update the `.htaccess` file from `\Source\.htaccess` and make changes if necessary.  
 
 ## ToDo
 * Super admin feature
